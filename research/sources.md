@@ -94,7 +94,7 @@ points and consistently ties community to retention/revenue (the core B2B SaaS C
 ## 4. Holly Firestone
 **Founder, Holly Firestone Consulting · ex-Atlassian, ex-Salesforce, ex-Venafi**
 
-- **LinkedIn:** https://www.linkedin.com/in/thehollyfirestone/ 💬
+- **LinkedIn:** https://www.linkedin.com/in/hollygfirestone/ 💬 _(verified via her post permalinks)_
 - **Writing:** https://hollyfirestone.medium.com/
 
 **Practitioner proof:** Ran Atlassian's global community program, Salesforce's Trailblazer
